@@ -1,4 +1,5 @@
 ## Data taken from VSU's FactBook
+## NOTE: THIS IS A WORK IN PROGRESS
 
 ## 10 year trend projection
 Projected_NewFreshmanClass_10yrtrend<-function(NumberApplied){
