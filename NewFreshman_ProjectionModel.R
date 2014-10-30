@@ -1,5 +1,7 @@
 ## Data taken from VSU's FactBook
 ## NOTE: THIS IS A WORK IN PROGRESS
+## need to center align the IVs in the linear regression models
+##       this will prudce a significant y-intercept
 
 ## 10 year trend projection
 Projected_NewFreshmanClass_10yrtrend<-function(NumberApplied){
